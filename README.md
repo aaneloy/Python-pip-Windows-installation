@@ -1,4 +1,6 @@
 ## Python-pip-Windows-installation
+![Author](https://img.shields.io/badge/author-aaneloy-blue)
+
 All the codes are copied from  - https://github.com/BurntSushi/nfldb/wiki/Python-&amp;-pip-Windows-installation
 A recurring problem encountered by beginners trying to use the `nfl*` family of modules (`nflgame`,`nfldb`,`nflvid`,`nflfan`) is simply in getting their Python environment properly configured.
 
