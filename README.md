@@ -1,5 +1,7 @@
 ## Python-pip-Windows-installation
 ![Author](https://img.shields.io/badge/author-aaneloy-blue)
+
+
 Courtesy - https://github.com/BurntSushi/nfldb/wiki/Python-&amp;-pip-Windows-installation
 
 
