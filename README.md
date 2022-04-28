@@ -5,7 +5,7 @@
 Courtesy - https://github.com/BurntSushi/nfldb/wiki/Python-&amp;-pip-Windows-installation
 
 
-These notes all originate from various issue conversations throughout the referenced repositories.
+These notes all originate from various issue conversations throughout the referenced repositories. More updates coming for windows 11
 
 # Python install
 _At the time of this writing, `nfl*` is Python 2.* compatible.  This could be/probably will be changing in the future (spring 2015?)._
