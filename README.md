@@ -2,9 +2,6 @@
 ![Author](https://img.shields.io/badge/author-aaneloy-blue)
 
 
-Courtesy - https://github.com/BurntSushi/nfldb/wiki/Python-&amp;-pip-Windows-installation
-
-
 These notes all originate from various issue conversations throughout the referenced repositories. More updates coming for windows 11
 
 # Python install
