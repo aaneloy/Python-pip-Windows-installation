@@ -1,13 +1,14 @@
 ## Python-pip-Windows-installation
 ![Author](https://img.shields.io/badge/author-aaneloy-blue)
 
-
 These notes all originate from various issue conversations throughout the referenced repositories. More updates coming for windows 11
 
-# Python install
+## Python install
 _At the time of this writing, `nfl*` is Python 2.* compatible.  This could be/probably will be changing in the future (spring 2015?)._
 
 Installation of Python itself should be fairly straight-forward.
+
+
 * Download and execute the latest Python 2.* installation package from [here](https://www.python.org/downloads/windows/).  
 _At the time of this writing, [Python 3.7](https://www.python.org/downloads/release/python-370/) is the latest._  
 _While either 32-bit (x86) or 64-bit (x86-64) versions should work just fine, I tend to gravitate to 32-bit installs as I have encountered other libraries/modules in the past that only offered 32-bit versions.  I have no idea if those modules that pushed me to 32-bit in the past still do not support 64-bit, but I'm a creature of habit._
@@ -46,7 +47,7 @@ _While either 32-bit (x86) or 64-bit (x86-64) versions should work just fine, I 
     >>>
     ```
 
-# Pip install
+## Pip install
 The easiest way to install the `nfl*` python modules and keep them up-to-date is with a Python-based package manager called [Pip](http://en.wikipedia.org/wiki/Pip_(package_manager))
 
 There are many methods for getting Pip installed, but my preferred method is the following:
