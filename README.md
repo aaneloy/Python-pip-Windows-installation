@@ -49,7 +49,7 @@ _While either 32-bit (x86) or 64-bit (x86-64) versions should work just fine, I 
     >>>
     ```
 
-## Pip install
+## PIP install
 The easiest way to install the `nfl*` python modules and keep them up-to-date is with a Python-based package manager called [Pip](http://en.wikipedia.org/wiki/Pip_(package_manager))
 
 There are many methods for getting Pip installed, but my preferred method is the following:
